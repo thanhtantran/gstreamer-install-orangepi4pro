@@ -217,13 +217,7 @@ gst-inspect-1.0
 
 ## License
 
-Add a license if desired.
-
-For example:
-
-- MIT
-
-If you do not add a license, default copyright laws apply on GitHub.
+(MIT License)[LICENSE]
 
 ---
 
