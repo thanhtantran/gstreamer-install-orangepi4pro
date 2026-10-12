@@ -217,7 +217,7 @@ gst-inspect-1.0
 
 ## License
 
-(MIT License)[LICENSE]
+[MIT License](LICENSE)
 
 ---
 
