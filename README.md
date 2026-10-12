@@ -1,6 +1,8 @@
 # GStreamer Allwinner Install Script
 
-This repository contains a Bash installation script for setting up GStreamer-related packages, GTK4 development libraries, and local Allwinner `arm64` / `aarch64` packages on Debian/Ubuntu-based systems. This script dedicated for Orange Pi 4 Pro (another version of SBC may work, I cannot guarantee it)
+[Tiếng Việt](README-vi.md) — Bản dịch tiếng Việt
+
+This repository contains a Bash installation script for setting up GStreamer-related packages, GTK4 development libraries, and local Allwinner `arm64` / `aarch64` packages on Debian/Ubuntu-based sy[...]
 
 The script also copies a custom `libgstgtk4.so` GStreamer plugin into the system GStreamer plugin directory.
 
